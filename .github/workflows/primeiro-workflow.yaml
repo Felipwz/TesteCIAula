@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Exibe RA e Nome
-        run: echo "RA - Seu Nome"
+        run: echo "6324558 - Luiz Felipe S. de Souza"
       - name: Mostra o diretório de trabalho
         run: pwd
       - name: Imprime nome do repositório
